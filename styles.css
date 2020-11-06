@@ -1,0 +1,87 @@
+/* ATTRIBUTION */
+.attribution {
+  font-size: 13px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+  color: hsl(300, 43%, 22%);
+}
+
+/* PHONE */
+@media only screen and (min-width:350px) and (max-width: 769px) {
+  body {
+    font-family: 'Spartan', sans-serif;
+  }
+
+  #top {
+    background-image: url('images/bg-pattern-top-mobile.svg');
+  }
+
+  #bottom {
+    background-image: url('images/bg-pattern-bottom-mobile.svg');
+  }
+
+  .bada {
+    font-size: 3rem;
+    text-align: center;
+    width: 95%;
+    color: hsl(300, 43%, 22%);
+  }
+
+  .discpara {
+    width: 87%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    color: hsl(300, 43%, 22%);
+  }
+
+  .rate {
+    display: block;
+    height: 70px;
+    width: 87%;
+    border-radius: 8px;
+    background-color: hsl(300, 24%, 96%);
+    margin: 25px auto;
+    text-align: center;
+  }
+
+  .box {
+    height: 230px;
+    width: 87%;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 8px;
+    display: block;
+    margin: 30px auto;
+    position: relative;
+  }
+
+  .name {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    margin: -60px 110px;
+    font-size: 0.94rem;
+  }
+
+  .veri {
+    color: hsl(303, 10%, 53%);
+    position: relative;
+    margin: 61px 110px 0;
+    font-size: 0.9rem;
+  }
+
+  .image {
+    border-radius: 30px;
+    margin: 30px 34px 18px;
+    ;
+  }
+
+  .revpara {
+    color: White;
+    margin: 35px 33px;
+    width: 80%;
+  }
+}
