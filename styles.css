@@ -62,14 +62,14 @@
   .name {
     color: hsl(0, 0%, 100%);
     position: relative;
-    margin: -60px 110px;
+    margin: -60px 104px;
     font-size: 0.94rem;
   }
 
   .veri {
     color: hsl(303, 10%, 53%);
     position: relative;
-    margin: 61px 110px 0;
+    margin: 61px 105px 0;
     font-size: 0.9rem;
   }
 
@@ -81,7 +81,7 @@
 
   .revpara {
     color: White;
-    margin: 35px 33px;
+    margin: 15px 33px;
     width: 80%;
   }
 }
